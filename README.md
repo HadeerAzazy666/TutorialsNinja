@@ -15,6 +15,8 @@
 
 TutorialsNinja Web Application is a ecommerce application that provides various ecommerce services and features. This repository contains the source code for the TutorialsNinja application.
 
+## ![Usage Example](run.gif)
+
 ## Features
 
 - *Account Management*: Create and manage bank accounts.
