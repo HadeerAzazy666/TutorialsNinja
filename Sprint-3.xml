@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="All testcases">
+        <classes>
+            <class name="testcases.TC12_SelectDifferentTags"/>
+            <class name="testcases.TC09_AddToCart"/>
+            <class name="testcases.TC10_AddToWishlist"/>
+            <class name="testcases.TC11_AddToCompareList"/>
+        </classes>
+    </test>
+</suite>

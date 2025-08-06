@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="All testcases">
+        <classes>
+            <class name="testcases.TC05_SearchProduct"/>
+            <class name="testcases.TC06_SwitchBetweenCurrencies"/>
+            <class name="testcases.TC07_SelectRandomCategories"/>
+            <class name="testcases.TC08_FilterWithColor"/>
+        </classes>
+    </test>
+</suite>

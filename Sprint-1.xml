@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="All testcases">
+        <classes>
+            <class name="testcases.TC02_Registration">
+                <methods>
+                    <include name="registerAccountWithValidData_P"/>
+                </methods>
+            </class>
+            <class name="testcases.TC03_Login"/>
+            <class name="testcases.TC04_ForgettenPassword"/>
+        </classes>
+    </test>
+</suite>
